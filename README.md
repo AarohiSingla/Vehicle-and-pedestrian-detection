@@ -1,6 +1,5 @@
 Vehicle and pedestrian detection plays a crucial role in the development of autonomous vehicles and smart city applications, serving as a foundation for safety and efficiency.
 
-To understand the code, check this video: https://youtu.be/Dv-RLQMXtVY
 
 ![image](https://github.com/AarohiSingla/Vehicle-and-pedestrian-detection/assets/60029146/2bae7cb2-cf89-4db4-9a77-a44e4714b212)
 
